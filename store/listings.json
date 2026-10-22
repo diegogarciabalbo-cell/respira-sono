@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "status": "RASCUNHO — pt-BR é a fonte; en, es e zh-Hans são rascunhos da equipe de produto e exigem revisão por falante nativo e revisão regulatória por mercado antes de publicar.",
+    "updated": "2026-10-21",
+    "appStoreLocales": { "pt-BR": "pt-BR", "en": "en-US", "es": "es-MX", "zh-Hans": "zh-Hans" },
+    "playLocales": { "pt-BR": "pt-BR", "en": "en-US", "es": "es-419", "zh-Hans": "zh-CN" },
+    "decisions": [
+      "Palavras 'apneia/apnea/呼吸暂停' fora do título, subtítulo e palavras-chave: citar doença em marketing pode mudar o enquadramento (ex.: orientação de bem-estar da FDA, jan/2026). Decisão a revisar com o agente regulatório por mercado.",
+      "Aviso do Google Play para apps de saúde que não são dispositivo médico incluído na descrição longa."
+    ]
+  },
+  "pt-BR": {
+    "name": "RESPIRA Sono",
+    "subtitle": "Grave e entenda seu ronco",
+    "keywords": "ronco,roncar,sono,dormir,gravador,diário do sono,exercícios,fonoaudiologia,noite,respiração",
+    "promotionalText": "Grave sua noite com a tela bloqueada, ouça os trechos e acompanhe a evolução. Seus áudios ficam no seu celular.",
+    "playShortDescription": "Grave sua noite, ouça os trechos e acompanhe seu ronco com privacidade.",
+    "description": "O RESPIRA Sono ajuda adultos que roncam a registrar e entender suas noites.\n\nGRAVE A NOITE\n• Gravação confiável com a tela bloqueada, no próprio celular.\n• De manhã, veja quanto tempo foi gravado, as lacunas e a qualidade do áudio.\n• Ouça os trechos com mais som e compare noites em condições parecidas.\n\nDIÁRIO E HÁBITOS\n• Registre horários, descanso, álcool, nariz entupido e o relato de quem divide o quarto.\n• Veja observações entre noites, sempre com o número de registros.\n\nEXERCÍCIOS\n• Player com temporizador, contador, legendas e registro de desconforto, preparado para programas revisados por fonoaudiólogo.\n\nRELATÓRIO PARA A CONSULTA\n• Gere um PDF e compartilhe apenas o que você escolher.\n\nPRIVACIDADE\n• O áudio fica no seu aparelho. Nada vai para a nuvem sem sua autorização.\n• Sem anúncios. Sem transcrição de conversas. Apague tudo quando quiser.\n\nIMPORTANTE\nO RESPIRA Sono não é um dispositivo médico e não diagnostica, trata, cura nem previne doenças. Uma gravação não confirma nem exclui apneia do sono. Consulte um profissional de saúde para orientação, diagnóstico ou tratamento. O app não monitora emergências."
+  },
+  "en": {
+    "name": "RESPIRA Sono",
+    "subtitle": "Record & track your snoring",
+    "keywords": "snore,snoring,sleep,recorder,sleep diary,night,mouth exercises,tongue,breathing,sleep sounds",
+    "promotionalText": "Record your night with the screen locked, listen to highlights and track trends. Your audio stays on your phone.",
+    "playShortDescription": "Record your night, replay the sounds and track your snoring privately.",
+    "description": "RESPIRA Sono helps adults who snore record and understand their nights.\n\nRECORD YOUR NIGHT\n• Reliable recording with the screen locked, on your own phone.\n• In the morning, see how much was recorded, any gaps and the audio quality.\n• Listen to the loudest moments and compare nights recorded in similar conditions.\n\nDIARY AND HABITS\n• Log bedtimes, how rested you feel, alcohol, nasal congestion and what your partner noticed.\n• See observations across nights, always with the number of entries.\n\nEXERCISES\n• A player with timer, counter, captions and discomfort log, built for programs reviewed by speech-language professionals.\n\nREPORT FOR YOUR APPOINTMENT\n• Create a PDF and share only what you choose.\n\nPRIVACY\n• Audio stays on your device. Nothing goes to the cloud without your permission.\n• No ads. No transcription of conversations. Delete everything at any time.\n\nIMPORTANT\nRESPIRA Sono is not a medical device and does not diagnose, treat, cure or prevent any medical condition. Consult a healthcare professional for medical advice, diagnosis or treatment. The app does not monitor emergencies."
+  },
+  "es": {
+    "name": "RESPIRA Sono",
+    "subtitle": "Graba y sigue tu ronquido",
+    "keywords": "ronquido,roncar,sueño,dormir,grabadora,diario de sueño,ejercicios,lengua,noche,respiración",
+    "promotionalText": "Graba tu noche con la pantalla bloqueada, escucha los fragmentos y sigue tu evolución. Tu audio se queda en tu teléfono.",
+    "playShortDescription": "Graba tu noche, escucha los sonidos y sigue tu ronquido con privacidad.",
+    "description": "RESPIRA Sono ayuda a adultos que roncan a registrar y entender sus noches.\n\nGRABA TU NOCHE\n• Grabación confiable con la pantalla bloqueada, en tu propio teléfono.\n• Por la mañana, mira cuánto se grabó, los huecos y la calidad del audio.\n• Escucha los momentos con más sonido y compara noches en condiciones parecidas.\n\nDIARIO Y HÁBITOS\n• Registra horarios, descanso, alcohol, congestión nasal y lo que notó tu pareja.\n• Ve observaciones entre noches, siempre con el número de registros.\n\nEJERCICIOS\n• Reproductor con temporizador, contador, subtítulos y registro de molestias, preparado para programas revisados por fonoaudiólogos/logopedas.\n\nINFORME PARA TU CONSULTA\n• Genera un PDF y comparte solo lo que elijas.\n\nPRIVACIDAD\n• El audio se queda en tu dispositivo. Nada va a la nube sin tu permiso.\n• Sin anuncios. Sin transcripción de conversaciones. Borra todo cuando quieras.\n\nIMPORTANTE\nRESPIRA Sono no es un dispositivo médico y no diagnostica, trata, cura ni previene ninguna enfermedad. Consulta a un profesional de la salud para recibir orientación, diagnóstico o tratamiento. La app no monitorea emergencias."
+  },
+  "zh-Hans": {
+    "name": "RESPIRA Sono",
+    "subtitle": "录下并了解你的鼾声",
+    "keywords": "打鼾,鼾声,睡眠,录音,睡眠日记,夜间,口腔练习,舌头,呼吸",
+    "promotionalText": "锁屏也能录制整晚声音，早上回听片段、查看变化。录音只保存在你的手机上。",
+    "playShortDescription": "录制夜间声音，回听片段，私密地记录你的鼾声变化。",
+    "description": "RESPIRA Sono 帮助打鼾的成年人记录并了解自己的夜晚。\n\n录制夜间\n• 锁屏状态下也能在手机上稳定录音。\n• 早上查看录制时长、中断时段和音频质量。\n• 回听声音较多的片段，对比条件相近的夜晚。\n\n日记与习惯\n• 记录作息时间、休息感受、饮酒、鼻塞以及同住者的观察。\n• 查看多晚之间的观察结果，并显示记录数量。\n\n练习\n• 带计时器、计数器、字幕和不适记录的练习播放器，适用于经言语治疗专业人员审核的方案。\n\n就诊报告\n• 生成 PDF，只分享你选择的内容。\n\n隐私\n• 音频保存在你的设备上，未经你允许不会上传云端。\n• 无广告，不转写对话，可随时删除全部数据。\n\n重要提示\nRESPIRA Sono 不是医疗器械，不用于诊断、治疗、治愈或预防任何疾病。如需医疗建议、诊断或治疗，请咨询医疗专业人员。本应用不监测紧急情况。"
+  }
+}

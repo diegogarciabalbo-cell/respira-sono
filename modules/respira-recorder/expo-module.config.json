@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["RespiraRecorderModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.respirarecorder.RespiraRecorderModule"]
+  }
+}

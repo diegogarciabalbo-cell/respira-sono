@@ -1,0 +1,7 @@
+{
+  "name": "respira-recorder",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "description": "Gravador noturno nativo (Android FGS de microfone / iOS AVAudioEngine) com segmentos e diário de lacunas."
+}

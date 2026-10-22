@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "target": "ES2022",
+    "module": "commonjs",
+    "moduleResolution": "node10",
+    "ignoreDeprecations": "6.0",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "types": ["jest", "node"]
+  },
+  "include": ["tests/**/*.ts", "src/domain/**/*.ts", "src/db/**/*.ts", "src/i18n/index.ts", "src/i18n/locales/*.ts"]
+}
