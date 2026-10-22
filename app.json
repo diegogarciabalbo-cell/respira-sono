@@ -66,6 +66,12 @@
       "en": "./locales/ios/en.json",
       "es": "./locales/ios/es.json",
       "zh-Hans": "./locales/ios/zh-Hans.json"
+    },
+    "owner": "diegobalbo",
+    "extra": {
+      "eas": {
+        "projectId": "64885af7-33ca-4a63-b176-cde72f25d6e9"
+      }
     }
   }
 }
