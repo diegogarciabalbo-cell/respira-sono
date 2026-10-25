@@ -10,13 +10,14 @@ Data: 21/10/2026. Nada abaixo deve ser lido como "pronto para lançamento".
 | `npm run test:db` — 16 testes das migrações Supabase em Postgres embutido (RLS por proprietário, compartilhamento com escopo/revogação, papéis, flags clínicas, fluxo editorial, storage, cascata na exclusão) | ✅ passa |
 | `tsc --noEmit` | ✅ sem erros |
 | `expo export` (bundle JS Android + iOS) | ✅ gera os bundles |
+| **Build Android no EAS** (perfil `preview`, APK) — 25/10/2026, build `90451629-982c-4871-89d9-1fb5a89b57de`, commit `1ca623c`: compilação Kotlin do módulo nativo e empacotamento | ✅ FINISHED, sem erros. Instalação e execução em aparelho ainda não verificadas |
 | `expo prebuild` — manifest Android (permissões de FGS de microfone) e Info.plist (`UIBackgroundModes: audio`, texto do microfone) | ✅ gerados corretamente; autolinking encontra o módulo nativo |
 
 ## NÃO verificado (pendente)
 
 | Item | Por quê | Como verificar |
 |---|---|---|
-| Compilação do Kotlin e do Swift | Ambiente sem Android SDK, Maven Central e Xcode (acesso bloqueado). Código revisado manualmente contra as APIs do expo-modules-core 58. | `npx expo run:android` / `npx expo run:ios` |
+| Compilação do Swift (iOS) | Ainda sem build iOS (exige conta Apple Developer e assinatura). | `npx eas-cli build -p ios` |
 | Gravação real com tela bloqueada, 8–10 h | Requer aparelhos físicos | [TESTE-NOTURNO.md](TESTE-NOTURNO.md) |
 | Comportamento em ligações, alarmes, Bluetooth, falta de espaço, revogação de permissão | Requer aparelhos | Casos 3–8 do roteiro |
 | Recuperação após encerramento forçado | Lógica testada com diários sintéticos; não em aparelho | Caso 9 do roteiro |
