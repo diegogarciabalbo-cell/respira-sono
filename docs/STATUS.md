@@ -10,7 +10,7 @@ Data: 21/10/2026. Nada abaixo deve ser lido como "pronto para lançamento".
 | `npm run test:db` — 16 testes das migrações Supabase em Postgres embutido (RLS por proprietário, compartilhamento com escopo/revogação, papéis, flags clínicas, fluxo editorial, storage, cascata na exclusão) | ✅ passa |
 | `tsc --noEmit` | ✅ sem erros |
 | `expo export` (bundle JS Android + iOS) | ✅ gera os bundles |
-| **Build Android no EAS** (perfil `preview`, APK) — 25/10/2026, build `90451629-982c-4871-89d9-1fb5a89b57de`, commit `1ca623c`: compilação Kotlin do módulo nativo e empacotamento | ✅ FINISHED, sem erros. Instalação e execução em aparelho ainda não verificadas |
+| **Build Android no EAS** (perfil `preview`, APK) — 25/10/2026, build `90451629-982c-4871-89d9-1fb5a89b57de`, commit `1ca623c`: compilação Kotlin do módulo nativo e empacotamento | ✅ FINISHED, sem erros. Instalado e aberto em aparelho Android em 25/10/2026 (relato do usuário); gravação noturna ainda não verificada |
 | `expo prebuild` — manifest Android (permissões de FGS de microfone) e Info.plist (`UIBackgroundModes: audio`, texto do microfone) | ✅ gerados corretamente; autolinking encontra o módulo nativo |
 
 ## NÃO verificado (pendente)
