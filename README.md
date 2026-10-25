@@ -96,6 +96,8 @@ docs/                 arquitetura, regulatório, privacidade, análise acústica
 - [Privacidade e LGPD](docs/PRIVACIDADE.md)
 - [Estimativa de custos e hipótese comercial](docs/CUSTOS.md)
 - [Plano de lançamento, lojas e marketing](docs/GO-TO-MARKET.md)
+- [Como colocar à venda (preço, taxas, empresa)](docs/MONETIZACAO.md)
+- [Exercícios: o que a pesquisa mundial mostra](docs/EVIDENCIA-EXERCICIOS.md)
 - [Agência de agentes do Claude Code](docs/AGENCIA.md)
 - [Pacote para revisão clínica dos exercícios](docs/REVISAO-CLINICA.md)
 - [Glossário de tradução](docs/GLOSSARIO.md)

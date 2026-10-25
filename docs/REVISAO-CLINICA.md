@@ -51,3 +51,6 @@ Para o processo:
 12. Autorização explícita **se** o nome do revisor for exibido no app. Os autores dos estudos não são revisores nem parceiros do app.
 
 Depois da revisão, o conteúdo entra no servidor como nova versão (`exercise_versions`): rascunho → em revisão → publicado pelo revisor verificado. O banco impede publicação sem revisor verificado e bloqueia edição de conteúdo publicado.
+
+## Levantamento ampliado
+Ver `docs/EVIDENCIA-EXERCICIOS.md` (25/10/2026): revisões sistemáticas de terapia miofuncional, AirwayGym, canto, didgeridoo, treino inspiratório e treino de língua, críticas publicadas e achados sobre adesão.
