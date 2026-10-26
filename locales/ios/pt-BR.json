@@ -1,1 +1,6 @@
-{ "NSMicrophoneUsageDescription": "O RESPIRA Sono usa o microfone para gravar o áudio da sua noite. A gravação fica no seu aparelho.", "CFBundleDisplayName": "RESPIRA Sono" }
+{
+  "ios": {
+    "NSMicrophoneUsageDescription": "O RESPIRA Sono usa o microfone para gravar o áudio da sua noite. A gravação fica no seu aparelho.",
+    "CFBundleDisplayName": "RESPIRA Sono"
+  }
+}

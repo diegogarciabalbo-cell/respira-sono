@@ -36,3 +36,13 @@ test('arquivos nativos existem', () => {
     expect({ f, ignored }).toEqual({ f, ignored: false });
   }
 });
+
+test('arquivos de idioma do app.json separam ios/android (senão o lint do Android falha)', () => {
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
+  const app = require('../app.json');
+  for (const rel of Object.values(app.expo.locales ?? {}) as string[]) {
+    // eslint-disable-next-line @typescript-eslint/no-var-requires
+    const j = require('../' + rel.replace(/^\.\//, ''));
+    expect(Object.keys(j).every((k) => k === 'ios' || k === 'android')).toBe(true);
+  }
+});

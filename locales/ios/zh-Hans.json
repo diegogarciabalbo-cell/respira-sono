@@ -1,1 +1,6 @@
-{ "NSMicrophoneUsageDescription": "RESPIRA Sono 使用麦克风录制你夜间的声音。录音仅保存在你的设备上。", "CFBundleDisplayName": "RESPIRA Sono" }
+{
+  "ios": {
+    "NSMicrophoneUsageDescription": "RESPIRA Sono 使用麦克风录制你夜间的声音。录音仅保存在你的设备上。",
+    "CFBundleDisplayName": "RESPIRA Sono"
+  }
+}
